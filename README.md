@@ -2,7 +2,7 @@
 
 ## Preparation
 
-Generate token.py containing
+Generate access_token.py containing
 
 ```python
     access_token = ''  # Your personal access token
